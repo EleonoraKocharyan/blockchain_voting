@@ -18,4 +18,7 @@ https://gist.github.com/cryptogoth/10a98e8078cfd69f7ca892ddbdcf26bc
  web3j solidity generate --javaTypes /path/to/<smart-contract>.bin  /path/to/<smart-contract>.abi
   -p  /path/to/your/choice/out/directory -o /path/to/src/main/java
   
+  I was able to track transactions, smart contract deployment and state change in
+  'crypto faucet' section of https://rinkeby.io
+  
   
